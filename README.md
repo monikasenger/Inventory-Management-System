@@ -32,7 +32,15 @@
 | IDE Used     | IntelliJ IDEA / Eclipse |
 
 ## 📸 Screenshots
-
+![image](https://github.com/user-attachments/assets/920cc466-8046-4061-bcd7-c8810124874a)
+![image](https://github.com/user-attachments/assets/b53ea249-fcb0-420a-95ac-b42d0e272a57)
+![image](https://github.com/user-attachments/assets/e13663a7-7218-4477-8cc0-3f30e33551d6)
+![image](https://github.com/user-attachments/assets/bae782cd-65dc-4c0b-a65d-3d1bdc5c117a)
+![image](https://github.com/user-attachments/assets/03ec6e4c-55ab-4606-8280-169c37315294)
+![image](https://github.com/user-attachments/assets/715ac756-8e27-4d49-a8b7-87ad9b86e421)
+![image](https://github.com/user-attachments/assets/5c52ad14-4371-4f9e-8bb7-ffec1d18a353)
+![image](https://github.com/user-attachments/assets/be17a1a9-c040-4fb0-a83c-8656f67adf72)
+![image](https://github.com/user-attachments/assets/34d8c075-57c2-4906-9eef-c3d10a863b35)
 
 
 ## 🧑‍💻 How to Run
